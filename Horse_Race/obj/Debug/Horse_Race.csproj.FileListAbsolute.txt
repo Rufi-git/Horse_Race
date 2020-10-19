@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\Horse_Race\Horse_Race\bin\Debug\Horse_Race.exe.config
+C:\Users\asus\source\repos\Horse_Race\Horse_Race\bin\Debug\Horse_Race.exe
+C:\Users\asus\source\repos\Horse_Race\Horse_Race\bin\Debug\Horse_Race.pdb
+C:\Users\asus\source\repos\Horse_Race\Horse_Race\obj\Debug\Horse_Race.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Horse_Race\Horse_Race\obj\Debug\Horse_Race.Form1.resources
+C:\Users\asus\source\repos\Horse_Race\Horse_Race\obj\Debug\Horse_Race.Properties.Resources.resources
+C:\Users\asus\source\repos\Horse_Race\Horse_Race\obj\Debug\Horse_Race.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Horse_Race\Horse_Race\obj\Debug\Horse_Race.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Horse_Race\Horse_Race\obj\Debug\Horse_Race.exe
+C:\Users\asus\source\repos\Horse_Race\Horse_Race\obj\Debug\Horse_Race.pdb
